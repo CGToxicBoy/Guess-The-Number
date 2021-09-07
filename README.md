@@ -1,3 +1,4 @@
 # Guess-The-Number
-This program is under progress 
-pls wait for it to come soon
+This program made by a child.
+if you find any issue, pls fix that.
+thx
