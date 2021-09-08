@@ -22,7 +22,10 @@ while True:
     print("Please type a number next time.")
     continue
 
-  if user_guess == random.randint:
+  if user_guess == random_number:
    print("You got it!")
-else:
-  print("You got it wrong")
+   break
+  elif user_guess > random_number:
+    print("You got above the number!")
+  else:
+      print("You got below the number!")
